@@ -1,5 +1,7 @@
 # anti-afk
-Keeps your client logged in and circumvents AFK system and random disconnects that occur
+Keeps your character logged in and circumvents AFK system and random disconnects that occur.
+
+This script works in the background, so you can keep WoW running in the background while doing other things.
 
 ## requirements
 https://www.autohotkey.com/
@@ -17,6 +19,8 @@ https://www.autohotkey.com/
 /logout
 ```
 
-Load the script when your character is ingame and press `ctrl+shift+F9` to enable or disable the script.
+Activate the wow client you wish to use it and then load the script.
+
+When your character is ingame, you can press `ctrl+shift+F9` to enable or disable the script.
 
 Over long periods of time your character may drift forwards slightly. So put yourself against a wall or in a corner.

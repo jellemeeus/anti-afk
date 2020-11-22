@@ -1,4 +1,4 @@
-WinGet, wowid, ID, World of Warcraft
+﻿WinGet, wowid, ID, World of Warcraft
 SetKeyDelay, 0
 
 $^+F9::
@@ -17,6 +17,8 @@ while enable
 			
 			Sleep, 2000
 			
+			ControlSend,, 1, ahk_id %wowid%
+			Sleep, 1000
 			ControlSend,, 1, ahk_id %wowid%
 			Sleep, 69000 
 			

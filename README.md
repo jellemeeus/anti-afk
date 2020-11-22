@@ -9,8 +9,8 @@ https://www.autohotkey.com/
 ## how to use
 1. (optional) character with macro bound to 1 to interact with a target e.g. Priest with a macro bound to 1
 ```
-/tar Eye of C'thun
-/cast Mind Vision
+/target c'thun
+/cast mind vision
 ```
 2. Logout macro bound to 2
 

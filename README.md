@@ -7,9 +7,9 @@ This script works in the background, so you can keep WoW running in the backgrou
 https://www.autohotkey.com/
 
 ## how to use
-1. (optional) character with macro bound to 1 to interact with a target e.g. Priest with a macro bound to 1
+1. (optional) character with macro bound to 1 to interact/cast a spell with a target e.g. Priest with a macro bound to 1
 ```
-/target c'thun
+/target Hogger 
 /cast mind vision
 ```
 2. Logout macro bound to 2

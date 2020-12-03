@@ -20,11 +20,12 @@ while enable
 			ControlSend,, 1, ahk_id %wowid%
 			Sleep, 1000
 			ControlSend,, 1, ahk_id %wowid%
+
 			Sleep, 69000 
 			
 			counter++
 			
-			if (Mod(counter,9) = 0 ){
+			if (Mod(counter,10) = 0 ){
 				ControlSend,, 2, ahk_id %wowid%	
 				Sleep, 36000
 				ControlSend,, {enter}, ahk_id %wowid% 
